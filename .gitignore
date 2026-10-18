@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+nothuman-project.json
+*.pdf
